@@ -4,7 +4,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Derick Souta         |                  |
+| Product Owner |   Derick Souta         |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)       |
 | Scrum Master  | Jonathan Wesley |           |
 | Team Member   | Lucas Silva              |                |
 |  Team Member  | Izabelly Cardoso                 |                 |
