@@ -5,11 +5,11 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Derick Souta         |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta)       |
-| Scrum Master  | Jonathan Wesley |           |
-| Team Member   | Lucas Silva              |                |
-|  Team Member  | Izabelly Cardoso                 |                 |
-|  Team Member  | Elias Oliveira                 |     |
-|  Team Member  | Marjorie Mangelot       |                    |
+| Scrum Master  | Jonathan Wesley |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS)      |
+| Team Member   | Lucas Silva              |            [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59)    |
+|  Team Member  | Izabelly Cardoso                 |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Izacardoso06)    |
+|  Team Member  | Elias Oliveira                 |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta)   |
+|  Team Member  | Marjorie Mangelot       |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta)              |
 
 # Objetivo do Projeto
 
