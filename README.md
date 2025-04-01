@@ -20,7 +20,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Power Bi, Python, Excel, Word, Canva
 
 # Backlog do produto
 
