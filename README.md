@@ -17,10 +17,10 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Método Agil
   
  ### Tecnologias da Informação
- > Power Bi, Python (Google Colab), Excel, Word, Canva
+ > Power Bi, Python (Google Colab), Excel, Word, Canva, Figma, Jira
 
 # Backlog do produto
 
