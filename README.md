@@ -68,8 +68,8 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 09/04/2025 | a fazer|  | 
-|02|  23/04/2025| a fazer| | 
+|01| 09/04/2025 | a fazer| | 
+|02| 23/04/2025 | a fazer| | 
 |03| 14/05/2025 | a fazer| | 
-|04| 25/06/2025 |a fazer |  | 
+|04| 25/06/2025 |a fazer | | 
 |Feira de Soluções|29/05/2025 |a fazer | | 
