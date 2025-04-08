@@ -40,14 +40,14 @@ Descrição da demanda realizada pelo parceiro acadêmico.
       
 ## Sprint 3
 - [ ] Quais países têm aumentado a importação de produtos específicos dos municípios paulistas.
-- [ ] Como os municípios concentram suas exportações/importações em poucos produtos ou apresentam uma pauta diversificada.
-- [ ] Quais são as principais vias de transporte utilizadas para escoar exportações e receber importações, e como isso afeta os custos e a eficiência logística.
+- [ ] Como os municípios concentram suas exportações em poucos produtos ou apresentam uma pauta diversificada.
+- [ ] Quais são as principais vias de transporte utilizadas para escoar exportações, e como isso afeta os custos e a eficiência logística.
 - [ ] Ferramentas que permitem buscar cargas por código NCM e aplicar filtros personalizados para análise específica.
 - [ ] Visualização gráfica interativa, apresentando a evolução da balança comercial dos municípios no período de 2023 a 2024.
 
 ## Sprint 4
-- [ ] Como mudanças em políticas tarifárias ou acordos comerciais afetaram as exportações e importações.
-- [ ] Padrões sazonais nas exportações/importações de determinados produtos e como as empresas locais lidam com essas variações.
+- [ ] Como mudanças em políticas tarifárias ou acordos comerciais afetaram as exportações.
+- [ ] Padrões sazonais nas exportações de determinados produtos e como as empresas locais lidam com essas variações.
 - [ ] Informações detalhadas sobre cada município, com ranking por valor agregado de exportação.
 - [ ] Evolução histórica da balança comercial de cada município.
 
