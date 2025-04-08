@@ -20,7 +20,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
  > Método Agil
   
  ### Tecnologias da Informação
- > Power Bi, Python (Google Colab), Excel, Word, Canva, Figma, Jira
+ > Power Bi, Python (Google Colab), Excel, Word, Canva, Figma, Jira, GiHub.
 
 # Backlog do produto
 
