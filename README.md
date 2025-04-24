@@ -1,5 +1,5 @@
 # 🚀 Projeto (API) 
-> 📌 *Descrição da demanda realizada pelo parceiro acadêmico.*
+> 📌 *Esse projeto tem como objetivo desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Servísos. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional*
 
 ---
 
@@ -10,7 +10,6 @@
 | 🧭 Product Owner | Derick Souta         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |
 | 🧩 Scrum Master  | Jonathan Wesley      | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |
 | 👨‍💻 Dev Team     | Elias Oliveira       | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Oliveira835) |
-| 👩‍💻 Dev Team     | Izabelly Cardoso     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Izacardoso06) |
 | 👨‍💻 Dev Team     | Lucas Silva          | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |
 | 👩‍💻 Dev Team     | Marjorie Mangelot    | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarjorieMangelot) |
 
