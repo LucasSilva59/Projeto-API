@@ -51,7 +51,6 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 ### 📦 Sprint 2 – [🔄 Em andamento]
 - [ ] Desempenho comercial de um município se comparado ao de outros municípios vizinhos ou de porte semelhante. (Sem Resposta)
 - [ ] Riscos associados à dependência de mercados específicos ou poucos parceiros.
-- [ ] Projeções para o desempenho comercial dos municípios nos próximos anos.
 - [ ] Rank dos municípios por valor FOB e VA.
 
 ---
@@ -64,7 +63,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 - [ ] Visualização gráfica interativa da evolução da balança comercial (2023–2024).
 - [ ] Principais fornecedores e clientes internacionais das empresas nos municípios.
 - [ ] Lista de municípios por região econômica.
-
+- [ ] Projeções para o desempenho comercial dos municípios nos próximos anos.
 ---
 
 ### 📊 Sprint 4 – [🕒 Planejado]
