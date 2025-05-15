@@ -1,4 +1,4 @@
-# Índice
+# 📑 Índice
 * [Projeto (API)](#-projeto-api)
 * [Equipe](#-equipe)
 * [Objetivo do Projeto](#-objetivo-do-projeto)
