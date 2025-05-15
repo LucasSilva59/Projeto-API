@@ -48,13 +48,13 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 
 ---
 
-### 📦 Sprint 2 – [🔄 Em andamento]
+### 📦 Sprint 2 – [✅ Concluído]
 - [x] Riscos associados à dependência de mercados específicos ou poucos parceiros.
 - [x] Rank dos municípios por valor FOB e VA.
 
 ---
 
-### 📈 Sprint 3 – [🕒 Planejado]
+### 📈 Sprint 3 – [🔄 Em andamento]
 - [ ] Países que têm aumentado a importação de produtos dos municípios paulistas.
 - [ ] Grau de diversificação da pauta exportadora/importadora dos municípios.
 - [ ] Análise das vias de transporte utilizadas e seu impacto logístico.
