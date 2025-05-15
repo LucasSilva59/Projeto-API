@@ -1,5 +1,5 @@
 # Índice
-* [Projeto (API)](#projeto-api)
+* [Projeto (API)](#-projeto-api)
 * [Equipe](#👥-equipe)
 * [Objetivo do Projeto](#🎯-objetivo-do-projeto)
 * [Sprints](#📋-backlog-do-produto)
