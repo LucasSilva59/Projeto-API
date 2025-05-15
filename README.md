@@ -55,14 +55,13 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 ---
 
 ### 📈 Sprint 3 – [🔄 Em andamento]
-- [ ] Países que têm aumentado a importação de produtos dos municípios paulistas.
-- [ ] Grau de diversificação da pauta exportadora/importadora dos municípios.
+- [ ] Grau de diversificação da pauta exportadora dos municípios.
 - [ ] Análise das vias de transporte utilizadas e seu impacto logístico.
 - [ ] Filtros personalizados e busca por NCM para análise específica.
 - [ ] Visualização gráfica interativa da evolução da balança comercial (2023–2024).
-- [ ] Principais fornecedores e clientes internacionais das empresas nos municípios.
-- [ ] Lista de municípios por região econômica.
+- [ ] Lista de municípios por região administrativa.
 - [ ] Projeções para o desempenho comercial dos municípios nos próximos anos.
+- [ ] Ranking de países e municípios com base no Valor FOB e Valor Agregado.
 ---
 
 ### 📊 Sprint 4 – [🕒 Planejado]
