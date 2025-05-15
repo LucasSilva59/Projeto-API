@@ -1,10 +1,10 @@
 # Índice
-* [Projeto](#projeto-template)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
+* [Projeto (API)](#projeto-api)
+* [Equipe](#👥-equipe)
+* [Objetivo do Projeto](#🎯-objetivo-do-projeto)
+* [Sprints](#📋-backlog-do-produto)
+* [Burndown](#📅-registro-das-sprints)
+* [Backlog do produto](#📋-backlog-do-produto)
 
 # 🚀 Projeto (API) 
 > 📌 *Esse projeto tem como objetivo desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Servísos. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional*
