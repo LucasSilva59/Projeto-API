@@ -49,9 +49,8 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 ---
 
 ### 📦 Sprint 2 – [🔄 Em andamento]
-- [ ] Desempenho comercial de um município se comparado ao de outros municípios vizinhos ou de porte semelhante. (Sem Resposta)
-- [ ] Riscos associados à dependência de mercados específicos ou poucos parceiros.
-- [ ] Rank dos municípios por valor FOB e VA.
+- [x] Riscos associados à dependência de mercados específicos ou poucos parceiros.
+- [x] Rank dos municípios por valor FOB e VA.
 
 ---
 
