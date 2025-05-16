@@ -7,7 +7,7 @@
 * [Registro das Sprints](#-registro-das-sprints)
 
 # 🚀 Projeto (API) 
-> 📌 *Esse projeto tem como objetivo desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Servísos. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional*
+> 📌 *Esse projeto tem como tema desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Servísos. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional*
 
 ---
 
