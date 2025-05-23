@@ -62,16 +62,16 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 
 ---
 
-### 📈 Sprint 3 – [🔄 Em andamento]
-- [ ] Grau de diversificação da pauta exportadora dos municípios.
-- [ ] Análise das vias de transporte utilizadas e seu impacto logístico.
-- [ ] Filtros personalizados e busca por NCM para análise específica.
-- [ ] Lista de municípios por região administrativa.
-- [ ] Projeções para o desempenho comercial dos municípios nos próximos anos.
-- [ ] Ranking de países e municípios com base no Valor FOB e Valor Agregado.
+### 📈 Sprint 3 – [✅ Concluído]
+- [x] Grau de diversificação da pauta exportadora dos municípios.
+- [x] Análise das vias de transporte utilizadas e seu impacto logístico.
+- [x] Filtros personalizados e busca por NCM para análise específica.
+- [x] Lista de municípios por região administrativa.
+- [x] Projeções para o desempenho comercial dos municípios nos próximos anos.
+- [x] Ranking de países e municípios com base no Valor FOB e Valor Agregado.
 ---
 
-### 📊 Sprint 4 – [🕒 Planejado]
+### 📊 Sprint 4 – [🔄 Em andamento]
 - [ ] Efeitos de políticas tarifárias ou acordos comerciais nas exportações/importações.
 - [ ] Padrões sazonais e como as empresas lidam com variações de mercado.
 - [ ] Ranking por valor agregado de exportação por município.
