@@ -70,15 +70,15 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 - [x] Lista de municípios por região administrativa.
 - [x] Projeções para o desempenho comercial dos municípios nos próximos anos.
 - [x] Ranking de países e municípios com base no Valor FOB e Valor Agregado.
+- [x] Mapa dos municípios e regiões interativo.
 ---
 
 ### 📊 Sprint 4 – [🔄 Em andamento]
-- [ ] Efeitos de políticas tarifárias ou acordos comerciais nas exportações/importações.
+- [ ] Efeitos de políticas tarifárias ou acordos comerciais nas exportações.
 - [ ] Padrões sazonais e como as empresas lidam com variações de mercado.
 - [ ] Ranking por valor agregado de exportação por município.
-- [ ] Evolução histórica da balança comercial de cada município.
 - [ ] Posicionamento dos produtos exportados em termos de preço e qualidade nos mercados internacionais.
-- [ ] Mapa dos municípios interativo 
+- [ ] Mapa dos municípios interativo. 
 
 ---
 
