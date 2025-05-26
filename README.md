@@ -41,7 +41,8 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 - Word
 - Canva
 - Figma
-- Jira
+- Discord
+- Whatsapp
 
 ---
 
