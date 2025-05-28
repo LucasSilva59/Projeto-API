@@ -63,7 +63,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 
 ---
 
-### 📈 Sprint 3 – [✅ Concluído]
+### 📈 Sprint 3 – [🔄 Em andamento]
 - [x] Grau de diversificação da pauta exportadora dos municípios.
 - [x] Análise das vias de transporte utilizadas e seu impacto logístico.
 - [x] Filtros personalizados e busca por NCM para análise específica.
@@ -74,7 +74,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 - [ ] Apresentação no power point.
 ---
 
-### 📊 Sprint 4 – [🔄 Em andamento]
+### 📊 Sprint 4 – [🕒 Planejado]
 - [ ] Efeitos de políticas tarifárias ou acordos comerciais nas exportações.
 - [ ] Padrões sazonais e como as empresas lidam com variações de mercado.
 - [ ] Ranking por valor agregado de exportação por município.
@@ -88,7 +88,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 | 🏁 Sprint 1            | 09/04/2025     | ✅ Concluído | [MVP](https://colab.research.google.com/drive/1AfKBgg5_sqDhH-rbfQ9lODmkrxZxMGIh) |
 | 📦 Sprint 2            | 30/04/2025     | ✅ Concluído | [MVP](https://drive.google.com/file/d/1XMfBVbAXyNgi4J_RShvRKP8kEh7kjSZP/view?usp=drive_link) |
 | 📈 Sprint 3            | 06/06/2025     | 🔄 Em andamento | [MVP](https://drive.google.com/file/d/1B6eCzqlouRVDgjVXClr51rH8m-Jw7gZj/view?usp=sharing) |
-| 📊 Sprint 4            | 17/06/2025     | 🔄 Em andamento | |
-| 🎪 Feira de Soluções | 17/06/2025     | 🔄 Em andamento | |
+| 📊 Sprint 4            | 17/06/2025     | 🕒 Planejado | |
+| 🎪 Feira de Soluções | 17/06/2025     | 🕒 Planejado | |
 
 ---
