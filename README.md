@@ -70,13 +70,12 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 
 ### 📈 Sprint 3 – [🔄 Em andamento]
 - [x] Grau de diversificação da pauta exportadora dos municípios.
-- [x] Análise das vias de transporte utilizadas e seu impacto logístico.
 - [x] Filtros personalizados e busca por NCM para análise específica.
 - [x] Lista de municípios por região administrativa.
 - [x] Projeções para o desempenho comercial dos municípios nos próximos anos.
 - [x] Ranking de países e municípios com base no Valor FOB e Valor Agregado.
 - [x] Mapa dos municípios e regiões interativo.
-- [ ] Apresentação no slide.
+- [x] Apresentação no slide.
 ---
 
 ### 📊 Sprint 4 – [🕒 Planejado]
@@ -91,8 +90,8 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 |---------------------|---------------|-----------|----------------|
 | 🏁 Sprint 1            | 09/04/2025     | ✅ Concluído | [MVP](https://colab.research.google.com/drive/1AfKBgg5_sqDhH-rbfQ9lODmkrxZxMGIh) |
 | 📦 Sprint 2            | 30/04/2025     | ✅ Concluído | [MVP](https://drive.google.com/file/d/1XMfBVbAXyNgi4J_RShvRKP8kEh7kjSZP/view?usp=drive_link) |
-| 📈 Sprint 3            | 04/06/2025     | 🔄 Em andamento | [MVP](https://app.powerbi.com/links/SpKGvm3OQ7?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) |
-| 📊 Sprint 4            | 17/06/2025     | 🕒 Planejado | |
-| 🎪 Feira de Soluções | 17/06/2025     | 🕒 Planejado | |
+| 📈 Sprint 3            | 04/06/2025     | ✅ Concluído | [MVP](https://app.powerbi.com/links/SpKGvm3OQ7?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) |
+| 📊 Sprint 4            | 17/06/2025     | 🔄 Em andamento | |
+| 🎪 Feira de Soluções | 17/06/2025     | 🔄 Em andamento | |
 
 ---
