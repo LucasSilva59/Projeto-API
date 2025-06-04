@@ -89,7 +89,8 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 | 🚚 Sprint              | 📆 Previsão   | 📌 Status | 📝 Histórico |
 |---------------------|---------------|-----------|----------------|
 | 🏁 Sprint 1            | 09/04/2025     | ✅ Concluído | [MVP](https://colab.research.google.com/drive/1AfKBgg5_sqDhH-rbfQ9lODmkrxZxMGIh) |
-| 📦 Sprint 2            | 30/04/2025     | ✅ Concluído | [MVP](https://drive.google.com/file/d/1XMfBVbAXyNgi4J_RShvRKP8kEh7kjSZP/view?usp=drive_link) |
+| 📦 Sprint 2            | 30/04/2025     | ✅ Concluído | [MVP](https://drive.google.com/file/d/1XMfBVbAXyNgi4J_RShvRKP8kEh7kjSZP/view?usp=drive_link) ![Gif PowerBi](./imagens/apresentacao.gif)
+ |
 | 📈 Sprint 3            | 04/06/2025     | ✅ Concluído | [MVP](https://app.powerbi.com/links/vWD-uTHK1m?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) |
 | 📊 Sprint 4            | 17/06/2025     | 🔄 Em andamento | |
 | 🎪 Feira de Soluções | 17/06/2025     | 🔄 Em andamento | |
