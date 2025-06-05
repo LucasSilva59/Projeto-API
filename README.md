@@ -41,6 +41,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 
 ### 🧰 Ferramentas
 - Power BI
+- ScreenToGif
 - Python (Google Colab)
 - Excel
 - Word
