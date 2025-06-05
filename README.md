@@ -68,7 +68,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 
 ---
 
-### 📈 Sprint 3 – [🔄 Em andamento]
+### 📈 Sprint 3 – [✅ Concluído]
 - [x] Grau de diversificação da pauta exportadora dos municípios.
 - [x] Filtros personalizados e busca por NCM para análise específica.
 - [x] Lista de municípios por região administrativa.
@@ -78,7 +78,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 - [x] Apresentação no slide.
 ---
 
-### 📊 Sprint 4 – [🕒 Planejado]
+### 📊 Sprint 4 – [🔄 Em andamento]
 - [ ] Efeitos de políticas tarifárias ou acordos comerciais nas exportações.
 - [ ] Padrões sazonais e como as empresas lidam com variações de mercado.
 - [ ] Posicionamento dos produtos exportados em termos de preço e qualidade nos mercados internacionais. 
