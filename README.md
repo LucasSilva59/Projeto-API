@@ -91,7 +91,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 |---------------------|---------------|-----------|----------------|
 | 🏁 Sprint 1            | 09/04/2025     | ✅ Concluído | [MVP](https://colab.research.google.com/drive/1AfKBgg5_sqDhH-rbfQ9lODmkrxZxMGIh) [GIF](https://drive.google.com/file/d/1Db-40i6DbQGl1CCd_FaWhNcWL1tt_FcK/view?usp=sharing) |
 | 📦 Sprint 2            | 30/04/2025     | ✅ Concluído | [MVP](https://drive.google.com/file/d/1XMfBVbAXyNgi4J_RShvRKP8kEh7kjSZP/view?usp=drive_link) |
-| 📈 Sprint 3            | 04/06/2025     | ✅ Concluído | [MVP](https://app.powerbi.com/groups/me/reports/7c73dff1-0c9d-47a5-92cc-132d30a3c9f3?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) [GIF](https://drive.google.com/file/d/1ZyvkBKfsL6QWhyPGi90sZBBFyzr0rVd6/view?usp=sharing) |
+| 📈 Sprint 3            | 04/06/2025     | ✅ Concluído | [MVP](https://app.powerbi.com/groups/me/reports/7c73dff1-0c9d-47a5-92cc-132d30a3c9f3?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) [GIF](https://drive.google.com/file/d/1bNPXBQZdaPuBRFlcLSfBOHTNWi0BIftL/view?usp=sharing) |
 | 📊 Sprint 4            | 17/06/2025     | 🔄 Em andamento | |
 | 🎪 Feira de Soluções | 17/06/2025     | 🔄 Em andamento | |
 
