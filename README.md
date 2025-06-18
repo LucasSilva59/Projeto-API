@@ -49,6 +49,7 @@ Desenvolver uma aplicação analítica com base nos dados de exportação dos mu
 - Figma
 - Discord
 - Whatsapp
+- Google Drive
 
 ---
 
